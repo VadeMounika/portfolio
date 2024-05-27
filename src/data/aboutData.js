@@ -1,6 +1,7 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
-}
+  title: "Who I am",
+  description1: "My name's Mounika Vade.",
+  description2:
+    "I am an experienced software engineer with a Master's degree in Computer Science and over 3 years of expertise. My journey began at ADP, where I had the opportunity to demonstrate full ownership of the application lifecycle, from design to production. I specialize in full stack development, microservices architecture, and CI/CD practices, leveraging technologies like Java, Spring Boot, Angular, and AWS. With a keen eye for optimization and scalability, I've spearheaded initiatives to containerize applications with Docker, implement CICD pipelines with Jenkins, and develop Terraform modules for AWS infrastructure. My passion for innovation led me to contribute to automation testing frameworks, ensuring robust test suites for web applications. Let's connect and discuss how my skills and experience can drive success for your team or project.",
+  image: 2,
+};

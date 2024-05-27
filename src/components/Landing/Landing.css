@@ -6,7 +6,7 @@
 }
 
 .landing--container {
-  display: flex;
+  display: contents;
   align-items: center;
   justify-content: center;
   height: 100%;
