@@ -2,7 +2,7 @@ export const socialsData = {
   github: "https://github.com/nandu208",
   facebook: "https://www.facebook.com/",
   linkedIn:
-    "https://www.linkedin.com/in/nanda-kishore-reddy-yerrabandi-a61516141/",
+    "https://www.linkedin.com/in/mounika-vade-42b767168/",
   instagram: "https://www.instagram.com/nandu070/",
   codepen: "https://codepen.io/",
   twitter: "https://twitter.com/NandaKi03893787",
