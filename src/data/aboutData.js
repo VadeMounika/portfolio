@@ -2,6 +2,15 @@ export const aboutData = {
   title: "Who I am",
   description1: "My name's Mounika Vade.",
   description2:
-    "I am an experienced software engineer with a Master's degree in Computer Science and over 3 years of expertise. My journey began at ADP, where I had the opportunity to demonstrate full ownership of the application lifecycle, from design to production. I specialize in full stack development, microservices architecture, and CI/CD practices, leveraging technologies like Java, Spring Boot, Angular, and AWS. With a keen eye for optimization and scalability, I've spearheaded initiatives to containerize applications with Docker, implement CICD pipelines with Jenkins, and develop Terraform modules for AWS infrastructure. My passion for innovation led me to contribute to automation testing frameworks, ensuring robust test suites for web applications. Let's connect and discuss how my skills and experience can drive success for your team or project.",
+    `
+
+   A Software Engineer with over four years of experience in all phases of the Software Development Life Cycle. I specialize in designing and implementing web-based enterprise applications using Java/J2EE technologies and have a strong proficiency in cloud infrastructure, particularly with AWS services like S3, SQS, SES, and Lambda. 
+    
+    My recent role at MetLife involved optimizing RESTful APIs and automating workflows, which led to a 25% reduction in data retrieval times and a 50% faster deployment cycle. Previously, at ADP, I developed scalable enterprise services and integrated efficient CI/CD pipelines, resulting in significant improvements in platform responsiveness and deployment time. 
+    
+    I hold a Master’s degree in Computer Science from Fitchburg State University and bring a comprehensive skill set in frameworks like Spring Boot, React.JS, and tools such as Docker, Jenkins, and Kubernetes. I'm passionate about leveraging technology to streamline processes and enhance system performance.
+    
+  
+    `,
   image: 2,
 };
